@@ -9,5 +9,24 @@ Baixe os arquivos do repositório.
 
 <h2><b>Segundo passo:</b></h2>
 <p>
-Extraia os arquivos baixados para pasta de CFG do jogo.
+Abra o arquivo zip baixado e extraia os arquivos da pasta "knifes" para pasta de CFG do jogo.
+
+<i>Caminho do diretório de cfg:
+<br>
+<u>Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg</u></i>
 </p>
+
+<h2><b>Terceiro passo:</b></h2>
+<pre>
+
+Abra o jogo.
+
+Entre em uma partida contra bots.
+
+Abra o console e escreva:
+<b><i>exec knife</i></b>
+
+O jogo irá recomendar todos comandos para dropar faca.
+
+Escolha a faca pressionando <b>DOWNARROW</b> e confirme apertando <b>ENTER</b>.
+</pre>
